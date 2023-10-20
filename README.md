@@ -34,5 +34,7 @@ Per i numeri che sono sia multipli di 3 che di 5 stampi “FizzBuzz”.
 
 ## Anteprima
 
+![anteprima](img/preview.png)
+
 ---
 
