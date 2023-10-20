@@ -1,0 +1,48 @@
+:root {
+    --ms-: ;
+    --ms-: ;
+    --ms-: ;
+    --ms-: ;
+    --ms-: ;
+    --ms-: ;
+    --ms-: ;
+    --ms-: ;
+    --ms-: ;
+    --ms-: ;
+}
+
+/* COMMON */
+img {
+    max-width: 100%;
+}
+
+body {
+    background-color: lightsteelblue;
+}
+
+.ms_container {
+    margin: auto auto;
+    height: 500px;
+    width: 500px;
+}
+
+.ms_col {
+    height: 50px;
+    width: 50px;
+    border: 1px solid gold;
+    border-radius: 2px;
+    padding: .2rem;
+}
+
+/* UTILITIES */
+
+
+/* HEADER */
+
+
+/* MAIN */
+
+
+/* FOOTER */
+
+
