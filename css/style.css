@@ -22,18 +22,49 @@ body {
 
 .ms_container {
     margin: auto auto;
-    height: 500px;
-    width: 500px;
+    height: 700px;
+    width: 700px;
 }
 
 .ms_col {
-    height: 50px;
-    width: 50px;
+    height: 70px;
+    width: 70px;
     border: 1px solid gold;
     border-radius: 2px;
-    padding: .2rem;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    padding: 0 !important;
 }
 
+.ms_even {
+    border: 3px solid coral;
+}
+
+.ms_odd {
+    border: 3px solid cornflowerblue;    
+}
+
+.ms_fizz {
+    background-image: url(../img/fizz.jpeg);
+    background-size: contain;
+}
+
+.ms_buzz {
+    background-image: url(../img/buzz.png);
+    background-size: contain;
+}
+
+.ms_fizz-buzz {
+    background-image: url(../img/fizzbuzz.png);
+    background-size: contain;
+}
+
+.ms_text {
+    background-color: rgba(255, 255, 255, 0.2);
+    width: 100%;
+    height: calc(100% / 3);
+}
 /* UTILITIES */
 
 
